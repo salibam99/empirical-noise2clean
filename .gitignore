@@ -1,0 +1,26 @@
+# Images / raw data
+*.fits
+*.fit
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.TIF
+*.TIFF
+*.bmp
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.pkl
+*.csv
+*.zip
+*.tar
+*.gz
+*.7z
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
